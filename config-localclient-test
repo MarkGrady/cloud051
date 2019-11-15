@@ -1,0 +1,3 @@
+server:
+  port: 9092
+myname: mac learn in xa-java-1902 class
